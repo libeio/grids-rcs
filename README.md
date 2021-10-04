@@ -1,2 +1,2 @@
-# grids-rc
-grids的资源
+
+存储 grids 前后端所使用到的一些资源
